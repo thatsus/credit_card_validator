@@ -1,0 +1,9 @@
+{
+    "name": "thatsus/credit_card_validator",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:thatsus/credit_card_validator.git"
+        }
+    ]
+}
