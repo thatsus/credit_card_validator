@@ -7,17 +7,14 @@ How to use it:
 
 1. Include the necessary jQuery library and Bootstrap's CSS in the web page.
 
-1
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 2
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 2. Include the jQuery creditCardValidator plugin after jQuery library.
 
-1
 <script src="jquery.creditCardValidator.js"></script>
 3. Create a text field for credit card input.
 
-1
 <input id="checkout_card_number" class="input-text form-control" type="text" size="19" maxlength="19" data-stripe="number" placeholder="1234 5678 9012 3456">
 2
 <span class="payment-errors required"></span>
